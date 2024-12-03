@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
-Visit https://vehicle-search-6vkxihl91-annnags-projects.vercel.app/ to access the web application, or start dev server following the instruction below.
+Visit https://vehicle-search-app.vercel.app/ to access the web application, or start dev server following the instruction below.
 
 Install dependencies:
 ```bash

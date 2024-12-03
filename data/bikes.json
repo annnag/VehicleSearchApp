@@ -1,0 +1,362 @@
+[
+  {
+    "brand": "EraCraft",
+    "gears": 3,
+    "model": "Urbanite",
+    "bike_type": "Road",
+    "wheel_size": 29,
+    "year": 2014,
+    "type": "bike"
+  },
+  {
+    "brand": "GreenVolt",
+    "gears": 14,
+    "model": "MetroCruiser",
+    "bike_type": "BMX",
+    "wheel_size": 12,
+    "year": 1997,
+    "type": "bike"
+  },
+  {
+    "brand": "TrailPeak",
+    "gears": 24,
+    "model": "SwiftLink",
+    "bike_type": "City",
+    "wheel_size": 29,
+    "year": 2004,
+    "type": "bike"
+  },
+  {
+    "brand": "TourBound",
+    "gears": 3,
+    "model": "CityScape",
+    "bike_type": "City",
+    "wheel_size": 16,
+    "year": 1989,
+    "type": "bike"
+  },
+  {
+    "brand": "RockForge",
+    "gears": 14,
+    "model": "Viva",
+    "bike_type": "City",
+    "wheel_size": 29,
+    "year": 2017,
+    "type": "bike"
+  },
+  {
+    "brand": "Echo Mountain",
+    "gears": 1,
+    "model": "EcoCruze",
+    "bike_type": "Mountain",
+    "wheel_size": 26,
+    "year": 2021,
+    "type": "bike"
+  },
+  {
+    "brand": "Summit Cycles",
+    "gears": 27,
+    "model": "Loop",
+    "bike_type": "City",
+    "wheel_size": 16,
+    "year": 2011,
+    "type": "bike"
+  },
+  {
+    "brand": "Eldorado Cycles",
+    "gears": 7,
+    "model": "Streetwise",
+    "bike_type": "BMX",
+    "wheel_size": 24,
+    "year": 1989,
+    "type": "bike"
+  },
+  {
+    "brand": "TrailPeak",
+    "gears": 1,
+    "model": "Transit Pro",
+    "bike_type": "BMX",
+    "wheel_size": 20,
+    "year": 1987,
+    "type": "bike"
+  },
+  {
+    "brand": "TrailPeak",
+    "gears": 14,
+    "model": "Pulse Commute",
+    "bike_type": "City",
+    "wheel_size": 27.5,
+    "year": 2023,
+    "type": "bike"
+  },
+  {
+    "brand": "MetroCycle",
+    "gears": 14,
+    "model": "VoltDrive",
+    "bike_type": "BMX",
+    "wheel_size": 26,
+    "year": 2017,
+    "type": "bike"
+  },
+  {
+    "brand": "RidgeLine",
+    "gears": 3,
+    "model": "EcoBoost",
+    "bike_type": "Hybrid",
+    "wheel_size": 20,
+    "year": 2001,
+    "type": "bike"
+  },
+  {
+    "brand": "RidgeLine",
+    "gears": 3,
+    "model": "SwiftE",
+    "bike_type": "Hybrid",
+    "wheel_size": 26,
+    "year": 2002,
+    "type": "bike"
+  },
+  {
+    "brand": "AeroCycle",
+    "gears": 27,
+    "model": "ChargeRide",
+    "bike_type": "BMX",
+    "wheel_size": 24,
+    "year": 2013,
+    "type": "bike"
+  },
+  {
+    "brand": "Urbane Wheels",
+    "gears": 27,
+    "model": "Pulse Hybrid",
+    "bike_type": "Road",
+    "wheel_size": 27.5,
+    "year": 1980,
+    "type": "bike"
+  },
+  {
+    "brand": "Urbane Wheels",
+    "gears": 7,
+    "model": "GreenRide",
+    "bike_type": "BMX",
+    "wheel_size": 26,
+    "year": 1988,
+    "type": "bike"
+  },
+  {
+    "brand": "ChargeLine",
+    "gears": 7,
+    "model": "Energia",
+    "bike_type": "BMX",
+    "wheel_size": 20,
+    "year": 1990,
+    "type": "bike"
+  },
+  {
+    "brand": "ChargeLine",
+    "gears": 7,
+    "model": "Voltix",
+    "bike_type": "Road",
+    "wheel_size": 27.5,
+    "year": 1988,
+    "type": "bike"
+  },
+  {
+    "brand": "Apollo & Co.",
+    "gears": 3,
+    "model": "NeoCycle",
+    "bike_type": "BMX",
+    "wheel_size": 24,
+    "year": 1989,
+    "type": "bike"
+  },
+  {
+    "brand": "CommuteWorks",
+    "gears": 27,
+    "model": "Amped",
+    "bike_type": "City",
+    "wheel_size": 27.5,
+    "year": 2014,
+    "type": "bike"
+  },
+  {
+    "brand": "Cavalier Bikes",
+    "gears": 24,
+    "model": "Vintage Wayfarer",
+    "bike_type": "Hybrid",
+    "wheel_size": 24,
+    "year": 2003,
+    "type": "bike"
+  },
+  {
+    "brand": "Rosewood Bicycles",
+    "gears": 24,
+    "model": "Eldorado",
+    "bike_type": "City",
+    "wheel_size": 20,
+    "year": 1994,
+    "type": "bike"
+  },
+  {
+    "brand": "Pathway Cycles",
+    "gears": 21,
+    "model": "Cruise Classic",
+    "bike_type": "City",
+    "wheel_size": 20,
+    "year": 2024,
+    "type": "bike"
+  },
+  {
+    "brand": "TerraForce",
+    "gears": 24,
+    "model": "Heritage",
+    "bike_type": "City",
+    "wheel_size": 16,
+    "year": 2023,
+    "type": "bike"
+  },
+  {
+    "brand": "Nimbus Cycles",
+    "gears": 7,
+    "model": "Apollo Retro",
+    "bike_type": "Hybrid",
+    "wheel_size": 29,
+    "year": 2014,
+    "type": "bike"
+  },
+  {
+    "brand": "GreenVolt",
+    "gears": 1,
+    "model": "Vintage Cadence",
+    "bike_type": "Hybrid",
+    "wheel_size": 16,
+    "year": 1999,
+    "type": "bike"
+  },
+  {
+    "brand": "CityStride",
+    "gears": 14,
+    "model": "Old Town",
+    "bike_type": "Road",
+    "wheel_size": 20,
+    "year": 1981,
+    "type": "bike"
+  },
+  {
+    "brand": "AeroCycle",
+    "gears": 1,
+    "model": "Rosewood",
+    "bike_type": "BMX",
+    "wheel_size": 26,
+    "year": 1996,
+    "type": "bike"
+  },
+  {
+    "brand": "Urbane Wheels",
+    "gears": 7,
+    "model": "Eclipse Deluxe",
+    "bike_type": "Hybrid",
+    "wheel_size": 24,
+    "year": 2007,
+    "type": "bike"
+  },
+  {
+    "brand": "Pathway Cycles",
+    "gears": 1,
+    "model": "Timeless",
+    "bike_type": "Road",
+    "wheel_size": 20,
+    "year": 2020,
+    "type": "bike"
+  },
+  {
+    "brand": "Stratospeed",
+    "gears": 14,
+    "model": "EnduroQuest",
+    "bike_type": "BMX",
+    "wheel_size": 29,
+    "year": 2012,
+    "type": "bike"
+  },
+  {
+    "brand": "VeloGenix",
+    "gears": 21,
+    "model": "CrossWay",
+    "bike_type": "Hybrid",
+    "wheel_size": 26,
+    "year": 2023,
+    "type": "bike"
+  },
+  {
+    "brand": "EcoRide",
+    "gears": 3,
+    "model": "Pathfinder",
+    "bike_type": "Road",
+    "wheel_size": 24,
+    "year": 2018,
+    "type": "bike"
+  },
+  {
+    "brand": "Odyssey Rides",
+    "gears": 24,
+    "model": "RoadVoyage",
+    "bike_type": "BMX",
+    "wheel_size": 16,
+    "year": 1980,
+    "type": "bike"
+  },
+  {
+    "brand": "Energize Bikes",
+    "gears": 27,
+    "model": "TrekVenture",
+    "bike_type": "BMX",
+    "wheel_size": 16,
+    "year": 2011,
+    "type": "bike"
+  },
+  {
+    "brand": "Oldtown Rides",
+    "gears": 1,
+    "model": "Trail Scout",
+    "bike_type": "BMX",
+    "wheel_size": 16,
+    "year": 2021,
+    "type": "bike"
+  },
+  {
+    "brand": "EcoBoost",
+    "gears": 14,
+    "model": "Odyssey",
+    "bike_type": "Road",
+    "wheel_size": 29,
+    "year": 2011,
+    "type": "bike"
+  },
+  {
+    "brand": "EnduroX",
+    "gears": 21,
+    "model": "Farline",
+    "bike_type": "Mountain",
+    "wheel_size": 12,
+    "year": 2005,
+    "type": "bike"
+  },
+  {
+    "brand": "Zenith Bikes",
+    "gears": 21,
+    "model": "Freedom 500",
+    "bike_type": "Road",
+    "wheel_size": 16,
+    "year": 2021,
+    "type": "bike"
+  },
+  {
+    "brand": "Stratospeed",
+    "gears": 27,
+    "model": "Escape Pro",
+    "bike_type": "BMX",
+    "wheel_size": 16,
+    "year": 1985,
+    "type": "bike"
+  }
+]

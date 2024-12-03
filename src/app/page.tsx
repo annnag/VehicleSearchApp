@@ -28,7 +28,7 @@ export default function Home() {
   };
 
   return (
-    <div className="">
+    <div>
       <Topbar
         {...{ filter, queryString, onSearch }}
         updateFilter={(option: Option) => setFilter(option)}

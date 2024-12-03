@@ -12,6 +12,7 @@ export const fetchVehicles = async (query: {
     : "";
   const response = await fetch("api/vehicles?" + searchParams);
   const data = await response.json();
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   return data.map((vehicle: any) => {
     switch (vehicle.type) {
       case "car":

@@ -12,7 +12,7 @@ export const fetchVehicles = async (query: {
     : "";
   const response = await fetch("api/vehicles?" + searchParams);
   const data = await response.json();
-  return data.map((vehicle) => {
+  return data.map((vehicle: any) => {
     switch (vehicle.type) {
       case "car":
         return {

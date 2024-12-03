@@ -29,7 +29,7 @@ export const Dropdown = ({
         <MdArrowDropDown />
       </div>
       {open && (
-        <ul className="absolute top-[40px] left-0 bg-slate-400 w-full rounded-md">
+        <ul className="absolute top-[48px] left-0 bg-slate-400 w-full rounded-md">
           {options.map(({ id, title }) => (
             <li
               key={id}
